@@ -1,5 +1,5 @@
-import LeanVeri.Commons
-import LeanVeri.InnerTensorProduct
+import QHilbert.Commons
+import QHilbert.InnerTensorProduct
 
 open scoped TensorProduct
 

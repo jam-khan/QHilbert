@@ -2,10 +2,10 @@
 Copyright (c) 2025 Iván Renison, Jam Khan. All rights reserved.
 Authors: Iván Renison, Jam Khan
 -/
-import LeanVeri.LinearMapPropositions
-import LeanVeri.OuterProduct
-import LeanVeri.Projection
-import LeanVeri.ProjectionSubmodule
+import QHilbert.LinearMapPropositions
+import QHilbert.OuterProduct
+import QHilbert.Projection
+import QHilbert.ProjectionSubmodule
 import Mathlib.Analysis.InnerProductSpace.Completion
 import Mathlib.Analysis.InnerProductSpace.PiL2
 import Mathlib.Analysis.InnerProductSpace.Orthonormal

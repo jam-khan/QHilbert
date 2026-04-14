@@ -2,8 +2,8 @@
 Copyright (c) 2025 Iván Renison. All rights reserved.
 Authors: Iván Renison
 -/
-import LeanVeri.OuterProduct
-import LeanVeri.TensorProduct
+import QHilbert.OuterProduct
+import QHilbert.TensorProduct
 import Mathlib.Analysis.InnerProductSpace.Completion
 import Mathlib.Analysis.InnerProductSpace.PiL2
 import Mathlib.Analysis.InnerProductSpace.Orthonormal

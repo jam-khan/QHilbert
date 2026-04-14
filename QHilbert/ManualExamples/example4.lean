@@ -1,6 +1,6 @@
-import LeanVeri.CommonsTensor
-import LeanVeri.LinearMapPropositions
-import LeanVeri.ProjectionSubmodule
+import QHilbert.CommonsTensor
+import QHilbert.LinearMapPropositions
+import QHilbert.ProjectionSubmodule
 
 variable {𝕜 : Type*} [RCLike 𝕜]
 

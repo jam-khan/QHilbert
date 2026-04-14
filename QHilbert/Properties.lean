@@ -3,7 +3,7 @@ Copyright (c) 2025 Jam Kabeer Ali Khan, Iván Renison. All rights reserved.
 Authors: Iván Renison, Jam Kabeer Ali Khan
 -/
 
-import LeanVeri.LinearMapPropositions
+import QHilbert.LinearMapPropositions
 import Mathlib.Analysis.InnerProductSpace.Projection
 
 /-!
